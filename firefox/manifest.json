@@ -1,0 +1,21 @@
+{
+  "name": "Papirus Dark",
+  "version": "1.0",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "accentcolor": "#222222",
+      "textcolor": "#eff0f1",
+      "toolbar": "#2c2c2c",
+      "toolbar_text": "#eff0f1",
+      "toolbar_field": "#363636",
+      "toolbar_field_text": "#eff0f1",
+      "toolbar_top_separator": "#363636",
+      "toolbar_bottom_separator": "#2c2c2c",
+      "toolbar_vertical_separator": "#363636"
+    },
+    "images": {
+      "headerURL": ""
+    }
+  }
+}
